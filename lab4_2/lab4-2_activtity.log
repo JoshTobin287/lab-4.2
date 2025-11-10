@@ -1,0 +1,13 @@
+Lab4-2_probe.py results:
+
+python lab4-2_probe.py scanme.nmap.org 22: This run said run said the port was OPEN
+python lab4-2_probe.py scanme.nmap.org 9999: This run said the port was CLOSED (refused)
+python3 lab4_2/lab4-2_probe.py scanme.nmap.org 80: This run said the port was OPEN
+python3 lab4_2/lab4-2_probe.py scanme.nmap.org 23: This run said the port was CLOSED (refused)
+The "OPEN" means that that port is open and can be accessed
+The "CLOSED (refused)" means that the port cannot be opened or accessed
+
+Lab4-2_scan.py results:
+The runtime is 4.720846176147461 seconds
+The port range is 20 - 1024
+There are no workers 
