@@ -11,3 +11,8 @@ Lab4-2_scan.py results:
 The runtime is 4.720846176147461 seconds
 The port range is 20 - 1024
 There are no workers 
+
+Lab4-2_banner.py notes:
+SSH-2.0-OpenSSH_6.6.1p1
+Server: Apache/2.4.7 (Ubuntu)
+HTTP/1.1 200 OK

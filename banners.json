@@ -1,3 +1,8 @@
+PORT 22:
+Banner (HTTP probe):
+SSH-2.0-OpenSSH_6.6.1p1 Ubuntu-2ubuntu2.13
+
+PORT 80:
 Banner (HTTP probe):
 HTTP/1.1 200 OK
 Date: Mon, 10 Nov 2025 12:51:53 GMT
