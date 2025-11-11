@@ -4,6 +4,6 @@ The open ports that i found were 22 and 80. Port 22 was less informative than po
 
 Timeouts are typically encountered when a firewall or other filtering devies block connection attempts. 
 
-UDP, a timeout may occur even though the service is up and running, as UDP is connectionless and there may be no response from the target system to indicate that the port is open.
+UDP a timeout may occur even though the service is up and running, as UDP is connectionless and there may be no response from the target system to indicate that the port is open.
 
 A strong defensive recommendation for an admin to reduce information leakage would be to implement a firewall and network access controls that filter out unnecessary information about the system and its services.
